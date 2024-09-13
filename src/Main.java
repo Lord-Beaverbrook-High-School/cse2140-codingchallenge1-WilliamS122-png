@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-
+//WILLIAM STRYCKER
         Scanner myScan = new Scanner(System.in);
         System.out.println("Input your 4 digit number");
         int year = myScan.nextInt();
@@ -31,3 +31,7 @@ public class Main {
 //The code won't work with a 5 digit number or above but this could be innovated through methods and strings to find number of digits
 // 3 digit numbers will just start with 0
 //String inputs crash the code
+//0134
+//1034
+//1304
+//1340
